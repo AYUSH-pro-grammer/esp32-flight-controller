@@ -9,7 +9,7 @@ This project presents a basic custom flight controller that is based on the ESP3
 
 ## kicad schematic
 
-![Schematic]("image/schematic.png")
+![Schematic](image/schematic.png)
 
 
 The repository contains:
