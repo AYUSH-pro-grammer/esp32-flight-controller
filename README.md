@@ -4,6 +4,14 @@
 
 This project presents a basic custom flight controller that is based on the ESP32 and MPU6050 IMU chip. The project reads data from the sensors, uses PID control to stabilize the drone, and drives four motors through electronic speed controllers (ESC).
 
+## How PCB will look
+<img width="1047" height="767" alt="PCB Image" src="https://github.com/user-attachments/assets/52d42a74-ae0f-43de-bda9-856b2e67dfbe" />
+
+## kicad schematic
+
+![Schematic]("image/schematic.png")
+
+
 The repository contains:
 
 * Code for the flight controller
